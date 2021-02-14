@@ -1,3 +1,10 @@
+# DL-DIY potential project ideas
+- use [Gaussian/Laplace likelihood loss](https://arxiv.org/abs/1703.04977) for regression
+- integrate [Bayesian loss](https://github.com/ZhihengCV/Bayesian-Crowd-Counting)
+
+
+-------------------
+
 # **C**rowd **C**ounting **C**ode Framework (C^3-Framework) 
 
 # Python 3 dev version!
